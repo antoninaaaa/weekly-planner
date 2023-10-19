@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <div className='photo'>
         <h1>Weekly Planner</h1>
-        <p>Love this timer</p>
       <img src= {image} width="250px" alt="planner"/>
       <Planner/>
       </div>
